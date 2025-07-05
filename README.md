@@ -12,5 +12,5 @@ make
 ./bin/carBase
 ```
 
-### Challeneges Faced
+### Challenges Faced
 Starting from high-level languages got me used to not considering the ins and outs of memory allocation as it was all taken care of for me. Thanks to Valgrind and a lot of effort, I was able to truly mould and strengthen my understanding in how a computer allocates memory; this was by far the most difficult part of the project.
